@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1010534069029-50tcidlna096tn199eh1mt9sv47s37sn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1010534069029-50tcidlna096tn199eh1mt9sv47s37sn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTS0wHlcno-D19TGCy6dLRg_98CsbLiCI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1010534069029</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>AliceYeh.Morsel</string>
+	<key>PROJECT_ID</key>
+	<string>morsel-692e6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>morsel-692e6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1010534069029:ios:002b67eadb3e6275f3e0cc</string>
+	<key>DATABASE_URL</key>
+	<string>https://morsel-692e6.firebaseio.com</string>
+</dict>
+</plist>
